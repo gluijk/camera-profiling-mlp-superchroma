@@ -1,2 +1,2 @@
 # camera-profiling-mlp-traintest
-Camera profiling
+Digital camera sensor profiling with Superchroma and IT8 card using a neural network
